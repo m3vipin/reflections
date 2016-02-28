@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+initialize is to show that this is my working directory and i need to start version conrol in this.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+working directory can contain other files that you may be temporarily working on. we can add to statging only when we think that it is an incremental change
