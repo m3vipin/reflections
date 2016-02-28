@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 forks - when you want to make a copy of another project to your account within github
 clones - when you want to make a copy of something that is on github to your local system
 branches - when you want a new feature to tbe added to the project without affecting master code
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that when a pull or fetch happens, it can be compared against local copy to see how much is changed in remote
