@@ -10,3 +10,5 @@ How do the diagrams help you visualize the branch structure?
 it helps me trace back to each commit made in each branch and find if there are any commits that are not reachable
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 when mering 2 branches, a new experimental feature can be added back to the main master branch. it is to show that experimental feature is now part of the main branch
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merging is helful when the changes are entirely in different lines of code. Manual merging would be required when 2 people change the exact same code
