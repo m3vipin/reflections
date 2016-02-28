@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 initialize is to show that this is my working directory and i need to start version conrol in this.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 working directory can contain other files that you may be temporarily working on. we can add to statging only when we think that it is an incremental change
+How can you use the staging area to make sure you have one commit per logical change?
+using staging area to identlify and fix the required files and may be compare with the committed to find difference
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if i want to create another game mode another language i will use branches. branches will help my master to have its own development
