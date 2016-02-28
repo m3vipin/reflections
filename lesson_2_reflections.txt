@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 if i want to create another game mode another language i will use branches. branches will help my master to have its own development
 How do the diagrams help you visualize the branch structure?
 it helps me trace back to each commit made in each branch and find if there are any commits that are not reachable
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+when mering 2 branches, a new experimental feature can be added back to the main master branch. it is to show that experimental feature is now part of the main branch
